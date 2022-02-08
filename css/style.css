@@ -36,6 +36,7 @@
 
 h1{
     top: 80%;
+    bottom:80%;
     left: 80%;
     right: 80%;
     transform: translate(-80%, -80%);
